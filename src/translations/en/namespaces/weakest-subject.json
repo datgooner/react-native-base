@@ -1,0 +1,8 @@
+{
+  "title": "Weakest Subject",
+  "list": {
+    "noWeakest": "You are a genius\nAll your topics reach a great result",
+    "empty": "Want to learn faster?\nTake a <b>quick 10 quiz</b> to discover your level.",
+    "quickTenQuiz": "Quick 10 quiz"
+  }
+}

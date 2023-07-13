@@ -1,0 +1,137 @@
+{
+  "common": {
+    "day": "(0,1)[Day](2-inf)[Days]",
+    "getQuestionFailedTitle": "Cannot get question data",
+    "getQuestionFailedDescription": "Something went wrong when loading your data, please try again latter",
+    "getAnswerFailedTitle": "Cannot get answer data",
+    "getAnswerFailedDescription": "Something went wrong when loading your answer, please try again latter",
+    "getSubjectFailed": "Cannot get subjects information",
+    "getSubjectFailedDescription": "Something went wrong when loading your data, please try again latter"
+  },
+  "header": {
+    "title": "Nursing",
+    "subTitle": "All you need to pass the NCLEX"
+  },
+  "quiz": {
+    "daily": "Daily Quiz",
+    "tenQuiz": "Quick\n10 Quiz",
+    "tenQuizTitle": "Quick 10 Quiz",
+    "timedQuiz": "Timed Quiz",
+    "customQuiz": "Custom Quiz",
+    "subjectQuiz": "Quiz by Subject",
+    "missedQuiz": "Missed Q. Quiz"
+  },
+  "popupDailyQuizFirst": {
+    "title": "Take your first quiz",
+    "description": "Take a quick 10 quiz to quickly test your NCLEX knowledge.",
+    "start": "Start",
+    "letsstart": "Ok, Let's Start",
+    "later": "Try it later"
+  },
+  "popupDailyQuiz": {
+    "title": "Welcome Back",
+    "description": "Let's start off\nwith quick 10 quiz test.",
+    "start": "Ok, Let's Start",
+    "later": "Try it later"
+  },
+  "takeAQuiz": {
+    "initializing": "Preparing for your quizzes",
+    "submitting": "Submitting your quiz",
+    "flagFailTitle": "Cannot set flag for this question",
+    "flagFailDescription": "Please try again",
+    "correctAnswer": "Correct Answer:",
+    "submitFullAnswer": {
+      "submitTitle": "Submit Quiz",
+      "submitDescription": "You have completed all questions of the quiz. Submit to check your result",
+      "continue": "Continue Quiz",
+      "submit": "Submit ({{count}} Question)",
+      "submit_plural": "Submit ({{count}} Question)"
+    },
+    "submitPartialAnswer": {
+      "submitTitle": "Ooops!",
+      "submitDescription": "You've answered {{completed}} of {{count}} questions. If you submit, you'll only be scored on the {{completed}} questions you answered.",
+      "continue": "Continue Quiz",
+      "submit": "Submit ({{count}} Question)",
+      "submit_plural": "Submit ({{count}} Question)"
+    },
+    "submitFail": {
+      "title": "Cannot submit your answers",
+      "description": "Please try again"
+    },
+    "cancelQuiz": {
+      "title": "Quit quiz",
+      "description": "You've answered {{completed}} of {{count}} questions. If you submit, you'll only be scored on the {{completed}} questions you answered.",
+      "continue": "Continue Quiz",
+      "submit": "Submit ({{count}} Question)",
+      "submit_plural": "Submit ({{count}} Question)",
+      "quit": "Quit"
+    },
+    "timedQuizPopup": {
+      "title": "Time's up",
+      "description": "You have completed the test with {{completed}}/{{count}} answers. You must submit to check your result.",
+      "quit": "Quit",
+      "submit": "Submit ({{count}} Question)",
+      "submit_plural": "Submit ({{count}} Question)"
+    }
+  },
+  "resultDaily": {
+    "score": "Score",
+    "scoreContent": {
+      "failed": "<b>Don't give up.</b>\n Review the answer & explanation, you'll pass it next time!",
+      "bad": "<b>OOOPS!</b>\n Review the answer & explanation for better understanding.",
+      "good": "<b>OH!</b>\n You have done your today's quizzes. Try to pass all of this next time!",
+      "perfect": "<b>Great!</b>\n You have passed all your today's, quizzes. Keep it on!"
+    }
+  },
+  "resultSubject": {
+    "scoreContent": {
+      "failed": "You haven't approached this subject yet. Give it a try!",
+      "veryBad": "Keep working on it. You're getting better day by day.",
+      "bad": "Practicing everyday to improve your level. Let's try your best!",
+      "average": "You're on the right track now. Keep going!",
+      "good": "You're doing great job, keep it up!",
+      "veryGood": "Excellent! You've almost got it.",
+      "perfect": "Congratulations! You've successfully mastered this subject."
+    },
+    "title": "Result of Subject"
+  },
+  "result": {
+    "initializing": "You are doing very well. \nPlease wait a moment to get the result of your quiz",
+    "scoreContent": {
+      "failed": "You haven't approached this quiz yet. Give it a try!",
+      "veryBad": "Keep working on it. You're getting better day by day.",
+      "bad": "Practicing everyday to improve your level. Let's try your best!",
+      "average": "You're on the right track now. Keep going!",
+      "good": "You're doing a great job, keep it up!",
+      "veryGood": "Excellent! You've almost got it.",
+      "perfect": "Congratulations! You've successfully mastered this quiz."
+    },
+    "information": "Information",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "answered": "Answered",
+    "flagged": "Flagged",
+    "averageTimeUnit": "A question",
+    "reviewQuestion": "Review all questions",
+    "wow": "WOW",
+    "review": {
+      "title": "Review All Questions",
+      "tabs": {
+        "all": "All",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "flagged": "Flagged"
+      },
+      "reviewAQuiz": "Review a quiz",
+      "empty": {
+        "correct": "Looks like you don't have <b>any question correct</b>",
+        "incorrect": "Looks like you don't have <b>any question incorrect</b>",
+        "flagged": "Looks like you don't have <b>any question flagged</b>"
+      }
+    }
+  },
+  "overview": {
+    "title": "Overview",
+    "answered": "Answered"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "timedQuiz": {
+    "headerTitle": "Timed Quiz",
+    "description": "This is the NCLEX simulation test to help you calculate your time and score to pass the exam!",
+    "form_numberQuestion": "Number of questions",
+    "form_timeForQuiz": "Time for the quiz",
+    "form_submit_timeQuiz": "Start Timed Quiz"
+  },
+  "customQuiz": {
+    "headerTitle": "Custom Quiz",
+    "subjectSection": {
+      "title": "Subjects",
+      "subjectSelect": "Select subjects",
+      "subjectCount": "{{count}} Subject",
+      "subjectCount_plural": "{{count}} Subjects"
+    },
+    "question": {
+      "questionSummary": "<bold>{{selected}}</bold> of {{total}}",
+      "title": "Questions",
+      "newQuestion": "New questions",
+      "answered": "Answered Questions",
+      "missedQuestion": "Missed questions",
+      "flaggedQuestion": "Flagged",
+      "numberOfQuestion": "Number of questions"
+    },
+    "form_submit_customQuiz": "Start Custom Quiz"
+  },
+  "quizBySubject": {
+    "headerTitle": "Quiz by Subject",
+    "questionSummary": "<bold>{{done}}</bold> of {{total}} Question",
+    "questionSummary_plural": "<bold>{{done}}</bold> of {{total}} Questions",
+    "search": {
+      "emptySearch": "Quick search with subjects",
+      "noResult": "No subjects found. Please try again!"
+    },
+    "popupSubject": {
+      "setOfQuestion": "Set of questions",
+      "howManyQuestion": "How many Questions?",
+      "start": "Start"
+    }
+  },
+  "missedQuiz": {
+    "popupMissedQuiz": {
+      "title": "Retake Missed Questions",
+      "howManyQuestion": "How many Questions?",
+      "noMissedTitle": "Very Good!",
+      "noMissedDescription": "You have no missed questions to retake."
+    }
+  }
+}

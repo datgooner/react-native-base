@@ -1,0 +1,26 @@
+{
+  "title": "Settings",
+  "settings": {
+    "study": "Study",
+    "dailyTarget": "Daily Target (Questions)",
+    "answer": "Answers",
+    "reset": "Reset Progress",
+    "resetAction": "Reset",
+    "notification": "Notifications",
+    "reminder": "Study Reminder",
+    "time": "{{period}} at {{time}}",
+    "edit": "Edit"
+  },
+  "popupDaily": {
+    "howManyQuestion": "How many Questions?",
+    "sub": "Daily Learning Goal",
+    "description": "Your daily goal setting will take effect from tomorrow",
+    "set": "Set"
+  },
+  "reset": {
+    "title": "Reset All",
+    "description": "All of your study progress\ndata will be removed!\nAre you sure you want to reset?",
+    "ok": "Yes, Reset now",
+    "cancel": "Wait, Let me check"
+  }
+}

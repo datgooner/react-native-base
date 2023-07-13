@@ -1,0 +1,38 @@
+{
+  "title": "Stats",
+  "progress": {
+    "tabTitle": "Progress",
+    "correct": "Correct",
+    "answered": "Answered",
+    "remaining": "Remaining",
+    "level_title": {
+      "no_rank": "No data to evaluate",
+      "beginner": "Your level is Beginner",
+      "primary": "Your level is Primary",
+      "intermediate": "You level is Intermediate",
+      "advanced": "Your level is Advanced",
+      "master": "Your level is Master",
+      "master_all": "Your level is Master"
+    },
+    "level_description": {
+      "no_rank": "Take a quick test to assess your knowledge.",
+      "beginner": "The beginning is always the hardest. Try your best!",
+      "primary": "Let's grow up your knowledge & get higher your score!",
+      "intermediate": "You've made a huge effort & improvement. Keep it on!",
+      "advanced": "Well done! Just a little bit more & you'll get it.",
+      "master": "Excellent! You achieved it. But don't rest on your laurels!",
+      "master_all": "Congratulations! You mastered all the quizzes & you'll pass your NCLEX easily!"
+    },
+    "errorTitle": "Cannot get progress!",
+    "errorMessage": "Something went wrong when getting your progress",
+    "noData": "Continue Quick 10 Quiz\n Experience"
+  },
+  "achievement": {
+    "tabTitle": "Achievements"
+  },
+  "history": {
+    "tabTitle": "Quiz History",
+    "noData": "You haven't completed any Quiz yet.\nLet's take a quiz right now!",
+    "quickTenQuiz": "Quick 10 quiz"
+  }
+}

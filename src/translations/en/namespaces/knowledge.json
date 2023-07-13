@@ -1,0 +1,11 @@
+{
+  "title": "Knowledge",
+  "topic": {
+    "error": "Cannot get topic",
+    "errorMessage": "Something went wrong when loading topics"
+  },
+  "lesson": {
+    "error": "Cannot get lesson",
+    "errorMessage": "Something went wrong when loading lessons"
+  }
+}
